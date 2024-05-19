@@ -1,6 +1,6 @@
 import React from 'react';
 
-const dummy = () => {
+const Dummy = () => {
     return (
         <div>
              This is a dummy of micro component to tell that you have put micro components of your project in micro folder . feel free to modify the structure as you want
@@ -8,4 +8,4 @@ const dummy = () => {
     );
 };
 
-export default dummy;
+export default Dummy;
